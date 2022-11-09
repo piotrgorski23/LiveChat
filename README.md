@@ -11,8 +11,8 @@ Simple Live chat app
 ## Technologies
 Project is created with:
 * JavaScript ES6
-* Firebase
-* Date-fns
+* Firebase 5.9.1
+* Date-fns 1.9.0
 * HTML5
 * CSS
 * Bootstrap
